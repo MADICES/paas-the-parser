@@ -10,4 +10,4 @@ From [ongoing discussions](https://github.com/MADICES/MADICES-2022/discussions/3
 
 ## Prior art
 
-- @kjappelbaum's work within the cheminfo ecosystem on a registry of chemical files: [kjappelbaum/chemical-files-registry](https://github.com/kjappelbaum/chemical-files-registry)
+- @kjappelbaum's work within the cheminfo ecosystem on a registry of chemical files: [kjappelbaum/chemical-files-registry](https://github.com/kjappelbaum/chemical-files-registry) which was supposed to feed the [app registry](https://fervent-banach-4255bd.netlify.app/)
