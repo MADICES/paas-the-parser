@@ -1,4 +1,4 @@
-# parsing-as-a-service
+# paas-the-parser
 
 From [ongoing discussions](https://github.com/MADICES/MADICES-2022/discussions/33#discussioncomment-2134909):
 
