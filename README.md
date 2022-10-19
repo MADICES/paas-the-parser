@@ -1,6 +1,6 @@
 # paas-the-parser
 
-**(27/09/2022) We are trying to create a MaRDA working group around this topic ([link to proposal document](https://docs.google.com/document/d/1_D3X1tQGqGPjktH8WpzffzfdaBjgvB3JjwaVJ_sTg9E/edit?usp=sharing))**
+**(27/09/2022) We are trying to create a MaRDA working group around this topic ([link to proposal document](https://docs.google.com/document/d/1_D3X1tQGqGPjktH8WpzffzfdaBjgvB3JjwaVJ_sTg9E/edit?usp=sharing))** and repo https://github.com/marda-alliance/metadata_extractors
 
 From [ongoing discussions](https://github.com/MADICES/MADICES-2022/discussions/33#discussioncomment-2134909):
 
